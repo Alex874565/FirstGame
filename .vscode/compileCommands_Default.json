@@ -1,0 +1,138 @@
+[
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGameCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGameCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGameGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGameGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGamePlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGamePlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGameProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\FirstGameProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\Interacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\Interacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Programare\\Games\\UE5\\FirstGame\\Source\\FirstGame\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Programare\\Games\\UE5\\FirstGame\\.vscode\\compileCommands_Default\\FirstGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
